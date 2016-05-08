@@ -80,7 +80,7 @@ $(function(){
   $("#linktoProfile").click(function(){
     naviScroll($profile);
   });
-  $("#linktoWorks").click(function(){
+  $("#linktoWorks, #linktoWorks2").click(function(){
     naviScroll($works);
   });
 

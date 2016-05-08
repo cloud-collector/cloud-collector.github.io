@@ -280,6 +280,19 @@ a {
     margin-bottom: 25px;
   }
 }
+.history-link-works {
+  cursor: pointer;
+  border: 1px solid #fff;
+  padding: 0 8px;
+  margin: 0 2px;
+  border-radius: 12px;
+  display: inline-block;
+  transition: all 0.5s;
+}
+.history-link-works:hover {
+  background-color: #fff;
+  color: #1C305C;
+}
 .tech-list {
   display: flex;
   flex-wrap: wrap;
